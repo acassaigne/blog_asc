@@ -1,7 +1,7 @@
 {:site-title                   "Crafting Code"
  :author                       "Anthony Cassaigne"
  :description                  "Simplicity matter"
- :site-url                     "http://acassaigne.info/"
+ :site-url                     "https://blog-asc.pages.dev/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
