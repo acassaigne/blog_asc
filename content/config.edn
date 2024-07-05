@@ -1,7 +1,7 @@
 {:site-title                   "Ensemble Programming"
  :author                       "Anthony Cassaigne"
  :description                  "Simplicity matter"
- :site-url                     "https://blog-asc.pages.dev/"
+ :site-url                     "https://acassaigne.info/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
